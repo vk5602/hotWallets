@@ -1,5 +1,4 @@
 export const acc = [
-    "test1.near|PrivateKey1|2",
-    "test2.near|PrivateKey2|2",
-    "test3.near|PrivateKey3|2"
+    "vishwajeet_fx.tg|fame always december virus walnut dream fever ecology wisdom vibrant find life|3",
+    "fx5602.tg|front tennis love insect cart stadium glove palace meat area rail exchange|2"
 ];
